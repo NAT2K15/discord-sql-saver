@@ -1,0 +1,16 @@
+{
+  "name": "mysql-saver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nat2k15",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^13.6.0",
+    "mysqldump": "^3.2.0"
+  }
+}
